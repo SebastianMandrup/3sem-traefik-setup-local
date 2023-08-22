@@ -28,8 +28,8 @@ services:
     networks:
         - database_network
     environment:
-      PGADMIN_DEFAULT_EMAIL: joergoertel@proton.me
-      PGADMIN_DEFAULT_PASSWORD: admin
+      PGADMIN_DEFAULT_EMAIL: sebastianmandrup@outlook.com
+      PGADMIN_DEFAULT_PASSWORD: hacked12345
 
 networks:
   database_network:
